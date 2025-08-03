@@ -58,7 +58,7 @@ Classify restaurants based on their cuisines using structured data like price ra
 ## 🛠️ How to Run the Projects
 
 1. Clone the repo  
-https://github.com/Mugesh-rugby/Cognifyz-Technology-internship.git
+https://github.com/Mugesh-rugby/Cognifyz-Technologies-internship.git
 
 🧾 License
 
